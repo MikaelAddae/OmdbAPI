@@ -1,0 +1,16 @@
+﻿@model Movie
+
+<form method="post" asp-action="MovieSearchResults" asp-controller="Home">
+    <label for="title">Search for a Movie by Title</label>
+    <input type="text" id="title" name="title">
+    <button>Search</button>
+</form>
+<br/>
+
+@if (Model != null) 
+{
+    <h4>@Model.Title</h4>
+    <p>@Model.Plot</p>
+    <p>@Model.Actors</p>
+    <img src="@Model.Poster"/>
+}

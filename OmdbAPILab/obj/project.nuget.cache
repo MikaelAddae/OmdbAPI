@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MhnffHGNS3mlGCpdwR8HG6ZFqjxTDtRA6RcV4bjK0ai4IHK7J1FfYahCscumuWHasqvHeygE8zukdmBgiUxTOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kelsey & Mikael\\source\\repos\\OmdbAPILab\\OmdbAPILab\\OmdbAPILab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kelsey & Mikael\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Kelsey & Mikael\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kelsey & Mikael\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Kelsey & Mikael\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
